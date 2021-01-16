@@ -5,4 +5,4 @@
 ## Comandos para nodejs
 
 1. `npm install`
-2. `node index,js`
+2. `node index.js`
